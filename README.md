@@ -10,4 +10,4 @@ Tenho 18 anos e estou a procura de uma transição de carreira para a área de d
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloosantanaa&repo=CartorioEbac.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muriloosantanaa&repo=site_gamesshop.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
